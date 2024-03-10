@@ -1,0 +1,38 @@
+.container {
+  padding: 60px 20px;
+}
+
+img {
+  border: 8px solid;
+}
+
+.list-image {
+  width: 100%;
+}
+
+.form-image {
+  display: block;
+  margin: 20px auto;
+}
+
+.github-button {
+  display: block;
+  margin: 40px auto 0 auto;
+}
+
+.github-button svg {
+  width: 24px;
+  height: 24px;
+  fill: #000;
+  margin-right: 8px;
+}
+
+.footer {
+  text-align: center;
+  padding: 5px 0;
+}
+
+.heart {
+  color: red;
+  font-size: 24px;
+}
